@@ -1,0 +1,2 @@
+1. Afier connecting the Iris app to Foundry app, the app stays unresponsive.
+2. unable to export the Themes from volt Iris
